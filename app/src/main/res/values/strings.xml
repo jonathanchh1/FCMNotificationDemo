@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">NavigationDemo</string>
+    <string name="default_notification_channel_id">channel_id_1</string>
+    <string name="notification_channel_names">topic\'s news</string>
+    <string name="quickstart_message">quickstart message</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="log_token">token</string>
+    <string name="message">Firebase Message Demo</string>
+    <string name="fcm_message">Message From Server</string>
+    <string name="msg_subscribe">subscribe to message</string>
+    <string name="msg_failed">failed to subscribe</string>
+    <string name="msg_token_fmt">token was received</string>
+    <string name="sendMessage">Send Message</string>
+    <string name="following">%1$s is now following you!</string>
+    <string name="follower_title_notification">Follower</string>
+
+    <!-- Names -->
+    <string-array name="names_array">
+        <item>Ethan</item>
+        <item>Mia</item>
+        <item>Mohamed</item>
+        <item>Fatima</item>
+        <item>Daniel</item>
+        <item>Luis</item>
+        <item>Tomás</item>
+        <item>Sofia</item>
+        <item>Camila</item>
+        <item>Somchai</item>
+        <item>Minato</item>
+        <item>Noam</item>
+        <item>Feng</item>
+        <item>Nor</item>
+        <item>Seo-yeon</item>
+        <item>Xioamei</item>
+        <item>Hugo</item>
+        <item>Jonas</item>
+        <item>Oliver</item>
+        <item>Francesco</item>
+        <item>Maxim</item>
+        <item>Yusuf</item>
+        <item>Laia</item>
+        <item>Emma</item>
+        <item>Angeliki</item>
+        <item>Zuzanna</item>
+        <item>Ioana</item>
+        <item>Zeynep</item>
+        <item>Hiro</item>
+        <item>Mareva</item>
+    </string-array>
+</resources>
