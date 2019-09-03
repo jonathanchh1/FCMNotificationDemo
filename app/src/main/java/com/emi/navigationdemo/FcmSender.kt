@@ -16,7 +16,7 @@ class FcmSender{
     private val gson : Gson = Gson()
     private val OkHttpClient : OkHttpClient = OkHttpClient()
 
-    fun sendData(data : Alarm){
+    fun sendData(data : Message){
         FirebaseInstanceId.getInstance().instanceId.addOnCompleteListener {
                 if(it.isSuccessful){
                     val dataFormat = PushData()

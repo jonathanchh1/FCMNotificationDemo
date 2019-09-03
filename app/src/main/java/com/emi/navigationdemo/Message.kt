@@ -1,7 +1,7 @@
 package com.emi.navigationdemo
 
 
-data class Alarm(
+data class Message(
     var id : String = "",
     var userName : String="",
     var userEmail : String="",
